@@ -20,7 +20,7 @@ body {
 
 .label-custom {
   width: 100%;
-  text-align: center;
+  text-align: center!important;
   padding-bottom: 7px;
 }
 
